@@ -1,6 +1,6 @@
 <template>
   <div
-    class="fixed top-0 w-full flex flex-col md:flex-row justify-between px-12 py-4"
+    class="fixed top-0 w-full flex flex-col md:flex-row justify-between px-12 py-4 background-white"
   >
     <div class="basis-1/6 flex justify-between items-center w-full md:w-auto">
       <p class="font-bold text-xl md:text-2xl">Mission der Liebe</p>
